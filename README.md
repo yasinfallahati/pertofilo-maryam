@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+<img src="./assets/banner.svg" alt="Maryam Portfolio" width="100%" />
 
-First, run the development server:
+</div>
+
+# Pertofilo Maryam
+
+Personal profile / portfolio site built with Next.js — animated sections, bilingual UI, deployed on Vercel.
+
+---
+
+## English
+
+
+
+### Features
+
+- Hero, about, skills, experience, contact sections
+- Locale provider with translations
+- Animated background and profile image handling
+- Next.js App Router + TypeScript
+
+### Stack
+
+Next.js · TypeScript · React
+
+### Getting started
 
 ```bash
+git clone https://github.com/yasinfallahati/pertofilo-maryam.git
+cd pertofilo-maryam
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+Live: https://pertofilo-maryam.vercel.app
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## فارسی
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### پورتفolio مریم
 
-## Learn More
+سایت پروفایل/پورتفolio با Next.js — بخش‌های انیمیشنی، رابط دوزبانه، دیپلوی روی Vercel.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### امکانات
 
-## Deploy on Vercel
+- بخش‌های هیرو، درباره، مهارت، تجربه، تماس
+- Locale provider با ترجمه‌ها
+- پس‌زمینه انیمیشنی و مدیریت تصویر پروفایل
+- Next.js App Router + TypeScript
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### تکنولوژی‌ها
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js · TypeScript · React
+
+### شروع کار
+
+```bash
+git clone https://github.com/yasinfallahati/pertofilo-maryam.git
+cd pertofilo-maryam
+npm install
+npm run dev
+```
+لایو: https://pertofilo-maryam.vercel.app
+
+---
+
+`#nextjs` `#typescript` `#portfolio` `#vercel` `#i18n`
