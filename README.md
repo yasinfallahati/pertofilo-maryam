@@ -1,71 +1,43 @@
-<div align="center">
-
-<img src="./assets/banner.svg" alt="Maryam Portfolio" width="100%" />
-
-</div>
-
 # Pertofilo Maryam
+### Client portfolio commission — motion, bilingual UI, Vercel
 
-Personal profile / portfolio site built with Next.js — animated sections, bilingual UI, deployed on Vercel.
+<p align="center"><img src="assets/hero.png" width="100%" alt="Maryam portfolio hero"></p>
+<p align="center"><img src="assets/screenshot.png" width="100%" alt="Live site"></p>
 
----
+<p align="center">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Framer_Motion-EC4899?style=for-the-badge">
+<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white">
+</p>
 
-## English
+**Live:** [pertofilo-maryam.vercel.app](https://pertofilo-maryam.vercel.app)
 
-
-
-### Features
-
-- Hero, about, skills, experience, contact sections
-- Locale provider with translations
-- Animated background and profile image handling
-- Next.js App Router + TypeScript
-
-### Stack
-
-Next.js · TypeScript · React
-
-### Getting started
+Delivered as a polished personal site for **Maryam Talebi**: animated sections, i18n hooks, Tailwind 4, Next 16. This README is written from the integrator/creator angle — ship quality for a named client, not a generic template dump.
 
 ```bash
-git clone https://github.com/yasinfallahati/pertofilo-maryam.git
-cd pertofilo-maryam
-npm install
-npm run dev
+npm i && npm run dev
+npm run build
 ```
-Live: https://pertofilo-maryam.vercel.app
 
 ---
 
-## فارسی
+## فارسی — پورتفolio مریم طالبی
 
-### پورتفolio مریم
+پروژهٔ **سفارشی** پورتفolio با Next.js، انیمیشن Framer Motion، پشتیبانی چندزبانه و دیپلوی Vercel.
 
-سایت پروفایل/پورتفolio با Next.js — بخش‌های انیمیشنی، رابط دوزبانه، دیپلوی روی Vercel.
-
-
-
-### امکانات
-
-- بخش‌های هیرو، درباره، مهارت، تجربه، تماس
-- Locale provider با ترجمه‌ها
-- پس‌زمینه انیمیشنی و مدیریت تصویر پروفایل
-- Next.js App Router + TypeScript
-
-### تکنولوژی‌ها
-
-Next.js · TypeScript · React
-
-### شروع کار
+### اجرا
 
 ```bash
-git clone https://github.com/yasinfallahati/pertofilo-maryam.git
-cd pertofilo-maryam
-npm install
-npm run dev
+npm i && npm run dev
 ```
-لایو: https://pertofilo-maryam.vercel.app
 
----
+### تحویل
 
-`#nextjs` `#typescript` `#portfolio` `#vercel` `#i18n`
+| مورد | وضعیت |
+|------|--------|
+| دامنهٔ دمو | Vercel لینک بالا |
+| استایل | مدرن، متحرک، موبایل‌فرست |
+| مالکیت محتوا | متعلق به صاحب‌پورتفolio |
+
+اگر فورک می‌کنید، نام و کپی را عوض کنید — این یک قالب عمومی خام نیست، یک تحویل مشتری است.
